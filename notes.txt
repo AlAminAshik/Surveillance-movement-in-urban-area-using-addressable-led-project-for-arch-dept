@@ -1,0 +1,28 @@
+There are two types of LED strips for WS2812B:
+1. 30 leds/m
+2. 60 leds/m (has more dense LEDs)
+
+On a 5m roll, each 5 inch of strip contains 8 LEDs.
+
+
+MODEL 1:
+Green strip 1
+stop 1: 32" (0 to 51 leds)
+time: 3sec
+Next press will exit
+
+Red Strip 1
+Length: 77.5” (0 to 124 leds)
+
+Stop 1: 19.5” (0 to 31)
+Time: until next press
+Stop 2: 9” ()
+Time: until next press
+Stop 3: 11.5” ()
+Time: until next press
+Stop 4: 8.5”
+Time: until next press
+Stop 5: 19”
+Time: until next press
+end 6: 10"
+Next press will exit
